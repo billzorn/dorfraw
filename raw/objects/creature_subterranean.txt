@@ -2654,7 +2654,7 @@ creature_subterranean
 		[BODY_SIZE:1:168:5000]
 		[BODY_SIZE:2:0:20000]
 
-[CREATURE:RODENT MAN]
+[CREATURE:RODENT_MAN]
 	[DESCRIPTION:An evil humanoid with a long tail, black spiky fur and a twitching nose.  It lives far underground.]
 	[NAME:rodent man:rodent men:rodent man]
 	[CREATURE_TILE:'r'][COLOR:0:0:1]

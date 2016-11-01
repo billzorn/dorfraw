@@ -625,7 +625,7 @@ Platypuses were sponsored by the generous contributions of the Bay 12 community.
 			[TL_COLOR_MODIFIER:BLACK:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
-[CREATURE:PLATYPUS MAN]
+[CREATURE:PLATYPUS_MAN]
 	[COPY_TAGS_FROM:PLATYPUS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -663,7 +663,7 @@ Platypuses were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'p']
 	[COLOR:6:0:0]
 
-[CREATURE:PLATYPUS, GIANT]
+[CREATURE:GIANT_PLATYPUS]
 	[COPY_TAGS_FROM:PLATYPUS]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
